@@ -226,6 +226,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 226--235
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--242
+
+ []
+
 [4] (DevendraResume.aux) ) 
 Here is how much of TeX's memory you used:
  1155 strings out of 493673
@@ -241,7 +246,7 @@ m/cmr10.pfb><C:/Program Files/MiKTeX 2.9d/fonts/type1/public/amsfonts/cm/cmr6.p
 fb><C:/Program Files/MiKTeX 2.9d/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Pr
 ogram Files/MiKTeX 2.9d/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program F
 iles/MiKTeX 2.9d/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on DevendraResume.pdf (4 pages, 128281 bytes).
+Output written on DevendraResume.pdf (4 pages, 128401 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
