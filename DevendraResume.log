@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2018.4.17)  19 APR 2018 23:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2018.4.17)  19 APR 2018 23:35
 entering extended mode
 **DevendraResume.tex
 (DevendraResume.tex
@@ -116,25 +116,54 @@ File: ./images/dev.jpg Graphic file (type jpg)
 <use ./images/dev.jpg>
 Package pdftex.def Info: ./images/dev.jpg  used on input line 27.
 (pdftex.def)             Requested size: 110.41896pt x 146.15456pt.
- [1
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 34.
+
+("C:\Program Files\MiKTeX 2.9d\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 34.
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--37
+
+ []
+
+
+! LaTeX Error: \begin{itemize} on input line 32 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 \end{document}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1
 
 {C:/Users/DELL/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/dev
-.jpg>]
-(DevendraResume.aux) ) 
+.jpg>] (DevendraResume.aux) )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 32 (\begingroup)
+### bottom level 
 Here is how much of TeX's memory you used:
- 1118 strings out of 493673
- 16273 string characters out of 3143153
+ 1139 strings out of 493673
+ 16615 string characters out of 3143153
  70019 words of memory out of 3000000
- 4486 multiletter control sequences out of 15000+200000
- 4240 words of font info for 16 fonts, out of 3000000 for 9000
+ 4503 multiletter control sequences out of 15000+200000
+ 5139 words of font info for 19 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 41i,5n,25p,281b,173s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9d/fonts/type1/public/amsfonts
-/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9d/fonts/type1/public/amsfonts/cm/cm
-r10.pfb>
-Output written on DevendraResume.pdf (1 page, 71468 bytes).
+ 41i,5n,25p,317b,219s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9d/fonts/type1/public/amsfonts/cm/cm
+csc10.pfb><C:/Program Files/MiKTeX 2.9d/fonts/type1/public/amsfonts/cm/cmr10.pf
+b><C:/Program Files/MiKTeX 2.9d/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Pro
+gram Files/MiKTeX 2.9d/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on DevendraResume.pdf (1 page, 94904 bytes).
 PDF statistics:
- 15 PDF objects out of 1000 (max. 8388607)
+ 23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
