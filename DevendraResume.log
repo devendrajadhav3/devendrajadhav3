@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2018.4.17)  19 APR 2018 23:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2018.4.17)  19 APR 2018 23:41
 entering extended mode
 **DevendraResume.tex
 (DevendraResume.tex
@@ -128,42 +128,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--37
 
  []
 
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 41.
 
-! LaTeX Error: \begin{itemize} on input line 32 ended by \end{document}.
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.40 \end{document}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 45.
+
+Overfull \hbox (51.24986pt too wide) in paragraph at lines 45--58
+[][] 
+ []
 
 [1
 
 {C:/Users/DELL/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/dev
-.jpg>] (DevendraResume.aux) )
-(\end occurred inside a group at level 1)
-
-### semi simple group (level 1) entered at line 32 (\begingroup)
-### bottom level 
+.jpg>] (DevendraResume.aux) ) 
 Here is how much of TeX's memory you used:
- 1139 strings out of 493673
- 16615 string characters out of 3143153
- 70019 words of memory out of 3000000
- 4503 multiletter control sequences out of 15000+200000
- 5139 words of font info for 19 fonts, out of 3000000 for 9000
+ 1154 strings out of 493673
+ 16771 string characters out of 3143153
+ 74019 words of memory out of 3000000
+ 4513 multiletter control sequences out of 15000+200000
+ 6663 words of font info for 24 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 41i,5n,25p,317b,219s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9d/fonts/type1/public/amsfonts/cm/cm
-csc10.pfb><C:/Program Files/MiKTeX 2.9d/fonts/type1/public/amsfonts/cm/cmr10.pf
-b><C:/Program Files/MiKTeX 2.9d/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Pro
-gram Files/MiKTeX 2.9d/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on DevendraResume.pdf (1 page, 94904 bytes).
+ 41i,10n,25p,317b,219s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9d/fonts/type1/public/a
+msfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9d/fonts/type1/public/amsfont
+s/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9d/fonts/type1/public/amsfonts/cm/cmr
+6.pfb><C:/Program Files/MiKTeX 2.9d/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:
+/Program Files/MiKTeX 2.9d/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progra
+m Files/MiKTeX 2.9d/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
+Output written on DevendraResume.pdf (1 page, 117008 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
+ 31 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
